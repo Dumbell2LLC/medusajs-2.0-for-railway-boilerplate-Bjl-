@@ -31,7 +31,7 @@ const SideMenu = ({ regions }: { regions: HttpTypes.StoreRegion[] | null }) => {
                   data-testid="nav-menu-button"
                   className="relative h-full flex items-center transition-all ease-out duration-200 focus:outline-none hover:text-ui-fg-base"
                 >
-                  Menu
+                  <img height="100px" width="75px" src="https://res.cloudinary.com/dempziidp/image/upload/v1739257993/Logo_Clear_Background_kqtcj0.png"></img> 
                 </Popover.Button>
               </div>
 
